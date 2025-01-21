@@ -27,11 +27,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Intake - Receive and review the ticket, then collect information related to the issue</h3>
 <p>
-In this section, we will create a ticket and gather information regarding it. First, Log into Remote Desktop and navigate to the following links: http://localhost/osTicket/scp/login.php for Admin/Agent login, and http://localhost/osTicket for user access(no login neccessary). Let's create a ticket using the guest user, by clicking 'Open New Ticket' at the top to the right. Then fill everything out and pick a help topic which 
-</p>
+In this section, we will create a ticket and gather information regarding it. First, Log into Remote Desktop and navigate to the following links: http://localhost/osTicket/scp/login.php for Admin/Agent login, and http://localhost/osTicket for guest user access(no login neccessary). Let's create a ticket using the guest user, by clicking 'Open New Ticket' at the top to the right. Then fill everything out and pick a help topic. This is mine for this exapmle:</p>
+
+<p> First I click 'Open New Ticket' <img src="" height="15%" width="15%" alt="New Ticket"/></p>
+<p>Then filled out all the sections <img src="" height="15%" width="15%" alt="Fields"/></p>
+
 <p>
-<img src="User.jpg" height="15%" width="15%" alt="User"/>
+<img src="User.jp" height="15%" width="15%" alt="User"/>
 </p>
+
 <br />
 
 <h3>Assignment and Communication - Assign the ticket to the appropriate support agent, who will then communicate with the user who submitted the ticket</h3>
