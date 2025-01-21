@@ -27,10 +27,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Intake - Receive and review the ticket, then collect information related to the issue</h3>
 <p>
-In this section, we will create a ticket and gather information regarding it. Log into Remote Desktop and navigate to the following links: http://localhost/osTicket/scp/login.php for Admin/Agent login, and http://localhost/osTicket for user access(no login neccessary).
+In this section, we will create a ticket and gather information regarding it. First, Log into Remote Desktop and navigate to the following links: http://localhost/osTicket/scp/login.php for Admin/Agent login, and http://localhost/osTicket for user access(no login neccessary). Let's create a ticket using the guest user, by clicking 'Open New Ticket' at the top to the right. 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="User.jpg" height="15%" width="15%" alt="User"/>
 </p>
 <br />
 
