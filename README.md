@@ -30,15 +30,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 In this section, we will create a ticket and gather information regarding it. First, Log into Remote Desktop and navigate to the following links: http://localhost/osTicket/scp/login.php for Admin/Agent login, and http://localhost/osTicket for guest user access(no login neccessary). Let's create a ticket using the guest user, by clicking 'Open New Ticket' at the top to the right. Then fill everything out and pick a help topic. This is mine for this exapmle:</p>
 
 <h4>Creting Ticket(Guest User)</h4>
-<p> First I click 'Open New Ticket' <img src="" height="15%" width="15%" alt="New Ticket"/></p>
-<p>Then filled out all the sections <img src="" height="15%" width="15%" alt="Fields"/></p>
+<p> First I click 'Open New Ticket'</p> <img src="user tick.jpg" height="30%" width="30%" alt="New Ticket"/>
+
+<p>Then fill out all the sections, like the example below.</p> <img src="" height="15%" width="15%" alt="Fields"/>
 
 <h4>Gather Info(as an Agent)</h4>
 <p>
+ I'll login as an agent and gather information abou the issue</p>
  
-</p>
 <p>
-<img src="User.jp" height="15%" width="15%" alt="User"/>
+
 </p>
 
 <br />
